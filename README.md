@@ -10,9 +10,11 @@
 - 創建新虛擬機：
 - 點擊 “新建” (New) 按鈕來創建新的虛擬機。
 - 為虛擬機命名（如 “Kali Linux”），系統類型選擇 “Linux”，版本選擇 “Debian (64-bit)”（Kali 是基於 Debian 的發行版）。
+- ![image](https://github.com/user-attachments/assets/202c03cb-0e36-413b-b54c-9345b31c4201)
 - 點擊 “下一步” (Next)。
 - 配置虛擬機的資源：
 - 記憶體大小：建議分配至少 2GB (2048 MB) 或更高的內存。如果你的主機有足夠的內存，可以分配 4GB (4096 MB) 以上，以提高性能。
+- ![image](https://github.com/user-attachments/assets/ffc43846-8223-4d1f-af52-65b5565d5d39)
 - 點擊 “下一步” (Next)。
 - 創建虛擬硬盤：
 - 選擇 “現在創建虛擬硬盤” (Create a virtual hard disk now)，然後點擊 “創建” (Create)。
@@ -20,6 +22,7 @@
 - 存儲方式：選擇 “動態分配” (Dynamically allocated)，這樣硬盤檔案會根據需要動態增長。
 - 大小：設定虛擬硬盤大小，至少設定 20GB。如果需要更多空間，可以設置更大。
 - 完成創建：點擊 “創建” (Create) 完成虛擬機的創建。
+- ![image](https://github.com/user-attachments/assets/1d2c4192-1b23-4c47-8b7d-3104f4b351eb)
 ## 步驟 3：配置 Kali Linux ISO
 - 選擇啟動磁碟：
 - 在 VirtualBox 主界面中，選擇剛創建的虛擬機，然後點擊 “設定” (Settings)。
