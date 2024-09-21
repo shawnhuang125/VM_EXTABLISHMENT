@@ -1,5 +1,5 @@
 # VM_EXTABLISHMENT
-## Kali Linux[影片連結]()
+## Kali Linux
 ### 步驟 1：下載 VirtualBox 和 Kali Linux ISO
 - 下載 VirtualBox：
 - 前往 VirtualBox 官方網站 
